@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite the paper below."
+authors:
+  - family-names: "Ioakim"
+    given-names: "Kosta A."
+title: "Dead AI Theory"
+version: "3.0"
+date-released: 2026-09-05
+url: "https://github.com/kosta-creator/dead-ai-theory"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Ioakim"
+      given-names: "Kosta A."
+  title: "Dead AI Theory: What happens when competence stops being scarce?"
+  year: 2026
+  url: "https://github.com/kosta-creator/dead-ai-theory/blob/main/Dead_AI_Theory_Final.pdf"
